@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Laravel 8 Simple CURD Project</div>
+                <div class="card-header">MENU</div>
 
                 <div class="card-body">
                     @if (session('status'))
