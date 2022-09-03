@@ -2,12 +2,12 @@
  This is Laravel 8 application. Here i show simple laravel CURD operation. 
 
 <h5>Product List:</h5>
-![product list](https://github.com/mamunurrashid1010/laravel-CURD/blob/main/CURD_project_image/product_list.png?raw=true)
+![product list](https://raw.githubusercontent.com/mamunurrashid1010/laravel-CURD/main/CURD_project_image/product_list.png)
 
 <h5>Add New Product:</h5>
-![product add](https://github.com/mamunurrashid1010/laravel-CURD/blob/main/CURD_project_image/add_product.png?raw=true)
+![product add](https://raw.githubusercontent.com/mamunurrashid1010/laravel-CURD/main/CURD_project_image/add_product.png)
 
 <h5>Edit Product Info:</h5>
-![product edit](https://github.com/mamunurrashid1010/laravel-CURD/blob/main/CURD_project_image/product_edit.png?raw=true)
+![product edit](https://raw.githubusercontent.com/mamunurrashid1010/laravel-CURD/main/CURD_project_image/product_edit.png)
 
 
